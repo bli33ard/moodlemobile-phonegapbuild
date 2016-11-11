@@ -2,21 +2,21 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "20150"
-        version   = "3.1.3">
-    <name>Moodle Mobile</name>
+        id        = "net.moodle.moodless3"
+        versionCode = "2016"
+        version   = "1.0.0">
+    <name>Moodle SkadSchool3</name>
 
     <description>
-        Moodle Mobile official app
+        Moodle SkadSchool3 official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://xn--d1as.xn----8sbgxkibhhcrf2ax2yja.pp.ua" email="bli33ardkit@gmail.com">
+        Moodle SkadSchool3
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>3.1.3</string>
+        <string>1.0.0</string>
     </gap:config-file>
 
     <gap:platform name="ios" />
