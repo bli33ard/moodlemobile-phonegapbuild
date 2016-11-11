@@ -61,7 +61,7 @@ angular.module('mm.core.login', [])
         templateUrl: 'core/components/login/templates/credentials.html',
         controller: 'mmLoginCredentialsCtrl',
         params: {
-            siteurl: '',
+            siteurl: 'http://xn--d1as.xn----8sbgxkibhhcrf2ax2yja.pp.ua',
             username: '',
             urltoopen: '' // For content links.
         },
@@ -79,7 +79,7 @@ angular.module('mm.core.login', [])
         controller: 'mmLoginReconnectCtrl',
         cache: false,
         params: {
-            siteurl: '',
+            siteurl: 'http://xn--d1as.xn----8sbgxkibhhcrf2ax2yja.pp.ua',
             username: '',
             infositeurl: '',
             siteid: ''
