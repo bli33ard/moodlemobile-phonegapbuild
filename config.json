@@ -10,7 +10,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile"
-    "presets" : {"url": "http://xn--d1as.xn----8sbgxkibhhcrf2ax2yja.pp.ua", "username": ""},
+    "presets": {"url": "http://xn--d1as.xn----8sbgxkibhhcrf2ax2yja.pp.ua", "username": ""},
     "demo_sites": [],
     "notifications_enabled": true,
     "reportbugmail": "bli33ardkit@gmail.com",
